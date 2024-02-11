@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "surname": "Ставрогин",
+        "name": "Николай",
+        "patronymic": "Всеволодович",
+        "organization": "Тайное общество",
+        "phoneWork": "+7 (495) 111-11-11",
+        "phonePersonal": "+7 (909) 111-11-11"
+    },
+    {
+        "id": 2,
+        "surname": "Печорин",
+        "name": "Григорий",
+        "patronymic": "Александрович",
+        "organization": "Русская императорская армия",
+        "phoneWork": "+7 (495) 222-22-22",
+        "phonePersonal": "+7 (909) 222-22-22"
+    },
+    {
+        "id": 3,
+        "surname": "Одинцова",
+        "name": "Анна",
+        "patronymic": "Сергеевна",
+        "organization": "Администрация усадьбы Никольское",
+        "phoneWork": "+7 (495) 333-33-33",
+        "phonePersonal": "+7 (909) 333-33-33"
+    },
+    {
+        "id": 4,
+        "surname": "Преображенский",
+        "name": "Филипп",
+        "patronymic": "Филиппович",
+        "organization": "Калабуховский дом",
+        "phoneWork": "+7 (495) 444-44-44",
+        "phonePersonal": "+7 (909) 444-44-44"
+    },
+    {
+        "id": 5,
+        "surname": "Борменталь",
+        "name": "Иван",
+        "patronymic": "Арнольдович",
+        "organization": "Калабуховский дом",
+        "phoneWork": "+7 (495) 555-55-55",
+        "phonePersonal": "+7 (909) 555-55-55"
+    },
+    {
+        "id": 6,
+        "surname": "Воланд",
+        "name": "Теодор",
+        "patronymic": "Фаустович",
+        "organization": "Силы Тьмы",
+        "phoneWork": "+7 (495) 666-66-66",
+        "phonePersonal": "+7 (909) 666-66-66"
+    }
+]
